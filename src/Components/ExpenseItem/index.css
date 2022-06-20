@@ -1,0 +1,17 @@
+@media (min-width: 580px) {
+    .expense-item-description {
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+      flex: 1;
+    }
+  
+    .expense-item-description h2 {
+      font-size: 1.25rem;
+    }
+  
+    .price {
+      font-size: 1.25rem;
+      padding: 0.5rem 1.5rem;
+    }
+  }
